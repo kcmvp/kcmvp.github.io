@@ -8,6 +8,6 @@ draft: false
 It's a good start point to learn how to build a distributed system. Here are some valuable digest during I implement [daos](https://github.com/kcmvp/daos).
 
 ### Architecture
-![memberlist architecture](/nocode/images/memberlist_01.svg)
+![memberlist architecture](/images/memberlist_01.svg)
 <img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
 
